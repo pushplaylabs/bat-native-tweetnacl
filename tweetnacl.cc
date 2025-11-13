@@ -12,7 +12,7 @@
 #endif
 
 #include <windows.h>
-#include <Wincrypt.h>
+#include <wincrypt.h>
 #else
 #include <fcntl.h>
 #include <unistd.h>
